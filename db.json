@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "firstName": "sumit",
+      "lastName": "agarwal",
+      "addressLineOne": "sp verma road",
+      "addressLineTwo": "patna",
+      "city": "patna",
+      "country": "India",
+      "postalCode": "800008",
+      "phone": "8989097667",
+      "age": "24",
+      "email": "sumit@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "varun",
+      "lastName": "kumar",
+      "addressLineOne": "kankarbagh",
+      "addressLineTwo": "patna",
+      "city": "patna",
+      "country": "India",
+      "postalCode": "800020",
+      "phone": "9006530615",
+      "age": "25",
+      "email": "varunstar93@gmail.com",
+      "id": 3
+    }
+  ]
+}
